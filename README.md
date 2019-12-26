@@ -1,2 +1,2 @@
 # beethoven
-A very very simple module orchestration system.
+A very very simple container orchestration system.
