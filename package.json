@@ -23,6 +23,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "inquirer": "^7.0.1",
-    "ps-node": "^0.1.6"
+    "ps-node": "^0.1.6",
+    "request": "^2.88.0"
   }
 }
