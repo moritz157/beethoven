@@ -8,6 +8,8 @@ First clone this repository using `git clone https://github.com/moritz157/beetho
 ### Summoning the daemon
 To start the daemon just use `beethoven daemon`. You probably want to configure your OS to execute this command on boot.
 
+You can also start the daemon detached from the original terminal using the `-detached` or `-d` flag
+
 ### Initializing a container
 If you want to create a new container, just navigate to the desired directory an use `beethoven init`. Then enter the prompted information. This command will create the `beethoven.json`, which contains all the necessary information.
 
