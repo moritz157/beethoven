@@ -10,8 +10,8 @@
     "test": "mocha './**/*.spec.js'"
   },
   "bin": {
-    "beethoven": "bin/beethoven",
-    "@moritz157/beethoven": "bin/beethoven"
+    "beethoven": "bin/beethoven.js",
+    "@moritz157/beethoven": "bin/beethoven.js"
   },
   "author": "moritz157",
   "license": "ISC",
